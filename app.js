@@ -18,15 +18,15 @@ start();
 //renderListStudent ra trình duyệt
 
 function renderListStudent(listStudent) {
-    var listStudent = document.querySelector('#list-student');
+    var listStudentBlock = document.querySelector('#list-student');
     var htmls = listStudent.map(function(student) {
         return `
         <li>
             <h4>${student.name}</h4>
-            <p>${student.age}</p>
-            <p>${student.phone}</p>
-            <p>${student.mail}</p>
+            <p>Tuổi: ${student.age}</p>
+            <p>Số điện thoại: ${student.phone}</p>
+            <p>Email: ${student.email}</p>
         </li>`;
     })
-    listStudent.innerHTML = htmls.join(' ');
+    listStudentBlock.innerHTML = htmls.join(' ');
 }
