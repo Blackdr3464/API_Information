@@ -1,0 +1,45 @@
+{
+    "listStudent": [{
+            "id": 0,
+            "name": "Nguyễn Đình Quyền",
+            "age": 21,
+            "phone": "0979209251",
+            "email": "dinhquyen03032000@gmail.com"
+        },
+        {
+            "id": 1,
+            "name": "Nguyễn Văn Anh",
+            "age": 25,
+            "phone": "0846511131",
+            "email": "anh@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Lê Ngọc Dũng",
+            "age": 24,
+            "phone": "094891515165",
+            "email": "dung@gmail.com"
+        },
+        {
+            "id": 3,
+            "name": "Đoàn Bùi",
+            "age": 31,
+            "phone": "046198156",
+            "email": "dinhquyen03032000@gmail.com"
+        },
+        {
+            "id": 4,
+            "name": "Phan HÙng",
+            "age": 29,
+            "phone": "0489165985",
+            "email": "hung@gmail.com"
+        },
+        {
+            "id": 5,
+            "name": "Chu Quý",
+            "age": 22,
+            "phone": "0314981658",
+            "email": "quy@gmail.com"
+        }
+    ]
+}
