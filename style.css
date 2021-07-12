@@ -1,0 +1,17 @@
+#shape {
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+    background-color: #000;
+    position: relative;
+}
+
+#flick {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    background-color: #fff;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}
